@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Camila Méndez
 
-<!--
-**MendezCamila/MendezCamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Analista en Sistemas** y estudiante avanzada de la **Licenciatura en Sistemas de Información** (UNaM), apasionada por la tecnología, el desarrollo de software y la mejora continua.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas que uso
+
+- **Lenguajes:** PHP, JavaScript, TypeScript, HTML, CSS
+- **Frameworks y librerías:** Laravel, Livewire, React, Astro, Starlight, Bootstrap
+- **Bases de datos:** MySQL, Supabase (PostgreSQL)
+- **Otras herramientas:** Git, GitHub, Postman, Composer, VS Code, Trello
+
+---
+
+## 🌱 Actualmente estoy aprendiendo...
+
+- Desarrollo en la nube con **AWS** (Academy Cloud Foundations)
+- Integración de inteligencia artificial en procesos de desarrollo
+- Arquitectura de microservicios y testing automatizado
+
+---
+
+## 📫 ¿Dónde encontrarme?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/camila-mendez-6878252b0/)
+- 📧 mendezcamilaitati@gmail.com
+
+---
+
+
